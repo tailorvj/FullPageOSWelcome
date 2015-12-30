@@ -1,3 +1,9 @@
+# This is the welcome screen for [FullPageOS](https://github.com/guysoft/FullPageOS)
+
+It is based on Reveal.js. It currently used minScale: 3 because otherwise it is displayed too small.
+
+Contact [@tailorvj](https://twitter.com/tailorvj)
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
