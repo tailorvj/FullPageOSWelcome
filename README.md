@@ -1,6 +1,7 @@
 # This is the welcome screen for [FullPageOS](https://github.com/guysoft/FullPageOS)
 
-It is based on Reveal.js. It currently used minScale: 3 because otherwise it is displayed too small.
+It is based on Reveal.js. 
+TODO: remove if embedded: true; works. It currently used minScale: 3 because otherwise it is displayed too small.
 
 Contact [@tailorvj](https://twitter.com/tailorvj)
 
